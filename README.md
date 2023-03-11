@@ -1,2 +1,2 @@
 # rsschool-cv
-ttps://Irina9K.github.io/rsschool-cv/cv
+https://Irina9K.github.io/rsschool-cv/cv
